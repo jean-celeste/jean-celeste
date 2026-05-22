@@ -43,24 +43,20 @@ with NIST-based incident response playbooks.
 
 ## 🏆 Certifications
 
-- ✅ [Your cert — e.g. CompTIA Security+]
-- ✅ [Your cert — e.g. Google Cybersecurity Certificate]
-- 🔄 [In progress — e.g. CompTIA CySA+]
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-00629B?style=for-the-badge)](https://www.credly.com/badges/04d7d5a3-e6d8-4df3-a1ff-5f24975117a7/public_url)
+
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E23?style=for-the-badge)]([YOUR_CREDENTIAL_URL](https://www.credly.com/badges/d60d65c4-eadf-4356-831b-3e5a2331ebdf/public_url))
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d60d65c4-eadf-4356-831b-3e5a2331ebdf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
 ## 🛠 Skills & tools
 
-**SIEM & Detection:** `Splunk` `Microsoft Sentinel` `KQL` `SPL` `Sysmon`
-**Cloud & Infrastructure:** `Azure` `Vultr` `Active Directory` `Windows Server` `Ubuntu`
-**Automation & Response:** `Shuffle SOAR` `Logic Apps` `Slack Alerting`
+**SIEM & Detection:** `Splunk` `Microsoft Sentinel` `KQL` `SPL` `Sysmon` <br>
+**Cloud & Infrastructure:** `Azure` `Vultr` `Active Directory` `Windows Server` `Ubuntu` <br>
+**Automation & Response:** `Shuffle SOAR` `Logic Apps` `Slack Alerting` <br>
 **Frameworks:** `MITRE ATT&CK` `NIST IR` `Threat Intelligence`
-
----
-
-## 📊 GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
 
 ---
 
