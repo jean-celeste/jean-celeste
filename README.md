@@ -5,8 +5,16 @@ Aspiring cybersecurity professsional with hands-on experience building detection
 response environments from scratch. For fun I did some homelabs to strengthen my knowledge about cybersecurity. My labs mirror
 real-world SOC workflows using Splunk, Microsoft Sentinel, Azure, and etc.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jean-carlo-celeste-970370278/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](YOUR_URL)
+
+<p>
+  <a href="https://www.linkedin.com/in/jean-carlo-celeste-970370278/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:celestecarljean17@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="24" alt="Email">
+  </a>
+</p>
 
 ---
 
@@ -54,6 +62,7 @@ with NIST-based incident response playbooks.
     <img src="./images/cyber-security-101-sec1.png" width="120" alt="TryHackMe SEC1">
   </a>
 </p>
+
 ---
 
 ## 🛠 Skills & tools
