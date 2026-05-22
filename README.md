@@ -43,9 +43,11 @@ with NIST-based incident response playbooks.
 
 ## 🏆 Certifications
 
-[![ISC2 CC](./images/)](https://www.credly.com/badges/04d7d5a3-e6d8-4df3-a1ff-5f24975117a7/public_url)
+[![ISC2 CC](./images/certified-in-cybersecurity-cc.png)](https://www.credly.com/badges/04d7d5a3-e6d8-4df3-a1ff-5f24975117a7/public_url)
 
-[![Security+](./images/comptia-security-ce-certification.png)](https://www.credly.com/badges/d60d65c4-eadf-4356-831b-3e5a2331ebdf/public_url)
+[![CompTIA Security+](./images/comptia-security-ce-certification.png)](https://www.credly.com/badges/d60d65c4-eadf-4356-831b-3e5a2331ebdf/public_url)
+
+[![TryHackme SEC1](./images/cyber-security-101-sec1.png)](https://www.credly.com/badges/b67b0274-31ed-4666-b701-ad027366939c/public_url)
 
 ---
 
