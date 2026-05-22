@@ -5,7 +5,7 @@ Aspiring cybersecurity professsional with hands-on experience building detection
 response environments from scratch. For fun I did some homelabs to strengthen my knowledge about cybersecurity. My labs mirror
 real-world SOC workflows using Splunk, Microsoft Sentinel, Azure, and etc.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([YOUR_UR](https://www.linkedin.com/in/jean-carlo-celeste-970370278/)L)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jean-carlo-celeste-970370278/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](YOUR_URL)
 
 ---
