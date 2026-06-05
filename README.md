@@ -70,7 +70,8 @@ with NIST-based incident response playbooks.
 **SIEM & Detection:** `Splunk` `Microsoft Sentinel` `KQL` `SPL` `Sysmon` <br>
 **Cloud & Infrastructure:** `Azure` `Vultr` `Active Directory` `Windows Server` `Ubuntu` <br>
 **Automation & Response:** `Shuffle SOAR` `Logic Apps` `Slack Alerting` <br>
-**Frameworks:** `MITRE ATT&CK` `NIST IR` `Threat Intelligence`
+**Frameworks:** `MITRE ATT&CK` `NIST IR` <br>
+**Programming Languag:** `Python` `Javascript` `Bash`
 
 ---
 
