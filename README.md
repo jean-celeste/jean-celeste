@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Jean
-**SOC/Security Analyst · Blue Team · Security Operations**
+**Aspiring Security Analyst · Blue Team & Red Team**
 
-Aspiring cybersecurity professsional with hands-on experience building detection and
-response environments from scratch. For fun I did some homelabs to strengthen my knowledge about cybersecurity. My labs mirror
-real-world SOC workflows using Splunk, Microsoft Sentinel, Azure, and etc.
+I build hands-on cybersecurity homelabs to learn how attacks work and how defenders detect and respond to them. My projects explore SOC workflows using Splunk, Microsoft Sentinel, and Azure, alongside offensive security exercises that help me test and improve my detections.
 
 
 <p>
@@ -60,6 +58,12 @@ with NIST-based incident response playbooks.
   </a>
   <a href="https://www.credly.com/badges/b67b0274-31ed-4666-b701-ad027366939c/public_url">
     <img src="./images/cyber-security-101-sec1.png" width="120" alt="TryHackMe SEC1">
+  </a>
+  <a href="https://appkademiya.online/verify/CERT-CCP-CYBERSECURITY-PROFESSIONAL-20260920-66D549B97CB3">
+    <img src="./images/ccp-cybersecurity-professional-badge-1786329135797.png" width="120" alt="CCP Cybersecurity Professional">
+  </a>
+  <a href="./images/dict-cyberpro-badge.png">
+    <img src="./images/dict-cyberpro-badge.png" width="120" alt="DICT CyberPro Badge">
   </a>
 </p>
 
