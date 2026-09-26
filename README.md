@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Jean
 **Aspiring Security Analyst · Blue Team & Red Team**
 
-I build hands-on cybersecurity homelabs to learn how attacks work and how defenders detect and respond to them. My projects explore SOC workflows using Splunk, Microsoft Sentinel, and Azure, alongside offensive security exercises that help me test and improve my detections.
-
+I build purple team homelabs to strengthen both my offensive and defensive skills. I assess systems, test attack techniques in controlled environments, and document the weaknesses I find. I then investigate the resulting activity in Splunk and Microsoft Sentinel, using what I learn to improve detections and response workflows.
 
 <p>
   <a href="https://www.linkedin.com/in/jean-carlo-celeste-970370278/">
