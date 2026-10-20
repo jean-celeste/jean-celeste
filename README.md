@@ -17,6 +17,8 @@ I build purple team homelabs to strengthen both my offensive and defensive skill
 
 ## 🔐 Featured projects
 
+## 🔵 Blue Team
+
 ### 🗺️ [Honeypot SOC Lab — Azure + Microsoft Sentinel](https://github.com/jean-celeste/SOC_Sentinel_Proj/tree/main)
 Deployed a deliberately exposed Azure VM to capture real-world attacker traffic.
 Configured Microsoft Sentinel with KQL detection rules, automated email alerting
@@ -43,6 +45,22 @@ with NIST-based incident response playbooks.
 > 🏆 5 attack scenarios · detection rules · IR playbooks · dashboards
 
 `Splunk` `Sysmon` `Windows Event Logs` `SPL` `NIST IR`
+
+---
+
+## 🔴 Red Team
+
+### 🔺 [DC-1 — VulnHub Penetration Test & Walkthrough](https://github.com/jean-celeste/DC1-Walkthrough)
+Full root compromise of a Drupal 7 target, documented end-to-end as a pentest report.
+Chained unauthenticated RCE (Drupalgeddon2 / CVE-2018-7600) → plaintext DB credential
+disclosure → MySQL admin-hash overwrite → SUID `find` privilege escalation to root.
+Includes kill chain, findings table, and remediation.
+
+> 🚩 All 5 flags recovered · root access · CVE-2018-7600 · SUID privesc
+
+`nmap` `Metasploit` `Drupalgeddon2` `MySQL` `Linux Privesc` `Kali`
+
+> 🚧 **More red team write-ups coming soon.**
 
 ---
 
@@ -74,7 +92,8 @@ with NIST-based incident response playbooks.
 **Cloud & Infrastructure:** `Azure` `Vultr` `Active Directory` `Windows Server` `Ubuntu` <br>
 **Automation & Response:** `Shuffle SOAR` `Logic Apps` `Slack Alerting` <br>
 **Frameworks:** `MITRE ATT&CK` `NIST IR` <br>
-**Programming Languag:** `Python` `Javascript` `Bash`
+**Offensive / Red Team:** `nmap` `Metasploit` `searchsploit` `netdiscover` `Drupalgeddon2` `Linux Privilege Escalation` <br>
+**Programming Languages:** `Python` `JavaScript` `Bash`
 
 ---
 
