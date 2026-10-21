@@ -60,6 +60,18 @@ Includes kill chain, findings table, and remediation.
 
 `nmap` `Metasploit` `Drupalgeddon2` `MySQL` `Linux Privesc` `Kali`
 
+---
+
+### 🔺 [DC-2 — VulnHub Penetration Test & Walkthrough](https://github.com/jean-celeste/DC2-Walkthrough)
+Full root compromise of a WordPress 4.7.10 target, documented end-to-end as a pentest report.
+Built a target-specific wordlist with `cewl`, enumerated users and cracked credentials via
+`wpscan`, pivoted in over SSH (port 7744) into a restricted shell, escaped `rbash` through `vi`,
+then escalated via a `sudo git` GTFOBins technique to root.
+
+> 🚩 All 5 flags recovered · root access · rbash escape · sudo git privesc
+
+`wpscan` `cewl` `WordPress` `rbash escape` `GTFOBins` `SSH` `Kali`
+
 > 🚧 **More red team write-ups coming soon.**
 
 ---
@@ -92,7 +104,7 @@ Includes kill chain, findings table, and remediation.
 **Cloud & Infrastructure:** `Azure` `Vultr` `Active Directory` `Windows Server` `Ubuntu` <br>
 **Automation & Response:** `Shuffle SOAR` `Logic Apps` `Slack Alerting` <br>
 **Frameworks:** `MITRE ATT&CK` `NIST IR` <br>
-**Offensive / Red Team:** `nmap` `Metasploit` `searchsploit` `netdiscover` `Drupalgeddon2` `Linux Privilege Escalation` <br>
+**Offensive / Red Team:** `nmap` `Metasploit` `wpscan` `cewl` `searchsploit` `netdiscover` `Drupalgeddon2` `GTFOBins` `Linux Privilege Escalation` <br>
 **Programming Languages:** `Python` `JavaScript` `Bash`
 
 ---
